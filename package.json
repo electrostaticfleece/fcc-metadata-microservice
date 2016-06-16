@@ -1,0 +1,15 @@
+{
+  "name": "metadata-microservice",
+  "version": "1.0.0",
+  "description": "A metadata microservice that returns the size of an uploaded file. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "electrostaticfleece",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
+  }
+}
